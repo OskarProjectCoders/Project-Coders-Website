@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&family=Courier+Prime&family=Shantell+Sans:wght@500&display=swap');
+.body{
+    background-color: #89CFF0;
+}
+
+.navbar{
+    width: 100%; 
+    position: fixed; 
+    top: 0; height: 
+    125px; 
+    background-color: #89CFF0
+}
+
+.navbarul{
+    list-style-type: none; 
+    margin: 0; 
+    padding: 0; 
+    overflow: hidden;
+    color: white;
+}
+
+.name{
+    float: left; 
+    padding-left: 25px; 
+    color: white; 
+    font-size: 60px; 
+    padding-top: 25px;
+    list-style: none
+}
+
+.prepare{
+    float: right; 
+    padding-right: 150px; 
+    color: white; 
+    font-size: 30px; 
+    padding-top: 50px;
+    list-style: none
+}
+
+.contact{
+    float: right; 
+    padding-right: 50px; 
+    color: white; 
+    font-size: 30px; 
+    padding-top: 50px;
+    list-style: none
+}
+
+.gettoknowus{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    padding-top: 50px;
+    float: right;
+    padding-right: 50px;
+    list-style: none;
+}
+
+.contactbutton{
+    font-size: 40px;
+    color: white;
+    background-color: midnightblue;
+    text-decoration: none;
+    
+}
+
+.contactbutton:hover{
+    color: green;
+}
+
+.formlabel1{
+    font-size: 25px;
+}
+
+.submit{
+    font-size: 30px;
+}
+
+.thankyou{
+    font-size: 50px;
+}
+
+.label{
+    font-size: 30px;
+}
+
+.textblockindex{
+    display: inline-block;
+    float: left;
+    width: 50%;
+    padding-left: 50px;
+}
+
+.imageblockindex{
+    display: inline-block;
+    float: right;
+    width: 45%;
+}
+
+.logo{
+    padding-top: 15px;
+    float: left;
+}
+
+.a:hover {
+    color: green;
+}
+
+.a:link{
+    color:darkblue;
+}
+
+.a:visited{
+    color:white;
+    text-decoration: none;
+}
+
+.a:hover{
+    color:green;
+}
+
+.a:focus{
+    color:green;
+}
+
+.a:active{
+    color:green;
+}
+
+.WAI{
+    color: blue;
+    font-size: 60px;
+}
+
+.WAI2{
+    color: blue;
+    font-size: 45px;
+}
+
+.WAIText1{
+    float: left;
+    width: 40%;
+}
+
+.WAIText2{
+    color: blue;
+    font-size: 30px;
+}
+
+.WAIPic{
+    float: right;
+    padding-right: 300px;
+}
+
+.PrepareOS{
+    font-size: 45px;
+    color: blue;
+}
+
+.PrepareP{
+    font-size: 30px;
+    color: darkblue;
+    list-style: circle;
+}
+
+.PrepareE{
+    color: blue;
+    font-size: 40px;
+}
